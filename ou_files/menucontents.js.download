@@ -1,0 +1,11 @@
+
+var eresource={divclass:'anylinkmenu', inlinestyle:'width:100px; background:#EEEEEE', linktarget:'_new'} //Second menu variable. Same precaution.
+eresource.items=[
+    ["LRC", "http://10.10.2.89:8000/main"],
+	["IEEE", "http://ieeexplore.ieee.org/Xplore/dynhome.jsp"],
+	["ASCE", "http://www.pubs.asce.org/"],
+	["ASME", "http://www.asme.org/"],
+	["ACM", "http://portal.acm.org/dl.cfm"],
+	["NPTEL", "http://nptel.iitm.ac.in/"]
+]
+
